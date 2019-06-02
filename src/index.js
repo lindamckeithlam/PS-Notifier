@@ -6,10 +6,15 @@ import initialState from "./initialState";
 import "./index.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
-
+import { BrowserRouter as Router } from "react-router-dom";
 const store = configureStore(initialState);
 
-ReactDOM.render(<App store={store} />, document.getElementById("root"));
+ReactDOM.render(
+  <Router basename={process.env.PUBLIC_URL}>
+    <App store={store} />
+  </Router>,
+  document.getElementById("root")
+);
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.

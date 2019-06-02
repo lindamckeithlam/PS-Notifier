@@ -54,7 +54,13 @@ class NavBar extends React.Component {
     return (
       <div className={classes.grow}>
         <AppBar position="static">
-          <Toolbar>
+          <Toolbar
+            style={{
+              backgroundColor: "black",
+              color: "hsla(0,0%,100%,.9)",
+              boxShadow: "0 1px 0 rgba(0,0,0,.05)"
+            }}
+          >
             {/* App Name */}
             <Typography className={classes.title} variant="h6" noWrap>
               PS-Notifier

@@ -32,7 +32,7 @@ class App extends React.Component {
 
             <a
               className="App-link"
-              href="https://reactjs.org"
+              href="https://github.com/lindamckeithlam/PS-Notifier"
               target="_blank"
               rel="noopener noreferrer"
             >
