@@ -2,7 +2,7 @@
 
 ## Home Page
 
-![Home Page](/src/images/homepage1.png "Home Page")
+![Home Page](/src/images/homepage.png "Home Page")
 
 ## Features
 

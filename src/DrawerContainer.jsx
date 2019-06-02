@@ -5,7 +5,9 @@ import Gist from "react-gist";
 
 const styles = theme => ({
   root: {
-    width: "50vw"
+    width: "50vw",
+    display: "flex",
+    flexDirection: "column"
   }
 });
 

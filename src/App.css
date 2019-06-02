@@ -1,7 +1,7 @@
 .App {
   text-align: center;
   background-image: linear-gradient(180deg, #090f1b, rgba(23, 30, 45, 0.89)),
-    url("https://www.brewsterwallcovering.com/images/thumbs/0024106_mythic-seafoam-floral-wallpaper_360.jpeg");
+    url("https://cdn.shopify.com/s/files/1/1991/1709/products/Jungle-Leaves-Pattern-B_580x@2x.jpg?v=1522186407");
 }
 
 .App-logo {
@@ -38,6 +38,10 @@
   color: white;
   padding: 3%;
   top: 3%;
+}
+.personal-links a:hover {
+  color: rgb(48, 100, 70);
+  cursor: pointer;
 }
 
 @keyframes App-logo-spin {

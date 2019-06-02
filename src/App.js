@@ -1,7 +1,6 @@
 import React from "react";
 import { connect } from "react-redux";
 import { Provider } from "react-redux";
-
 import "./App.css";
 import NavBar from "./NavBar";
 import { getChangelogHTML } from "./actions";
@@ -12,8 +11,6 @@ const mdp = dispatch => ({
 
 class App extends React.Component {
   componentDidMount() {
-    // on mount, check last time user viewed changelog to render the appropriate
-    // notification number
     this.props.fetchChangelog();
   }
   render() {
