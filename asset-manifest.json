@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lindamckeithlam/PS-Notifier/static/css/main.11a4dbbb.chunk.css",
+    "main.js": "/lindamckeithlam/PS-Notifier/static/js/main.0818d972.chunk.js",
+    "main.js.map": "/lindamckeithlam/PS-Notifier/static/js/main.0818d972.chunk.js.map",
+    "runtime~main.js": "/lindamckeithlam/PS-Notifier/static/js/runtime~main.17b92004.js",
+    "runtime~main.js.map": "/lindamckeithlam/PS-Notifier/static/js/runtime~main.17b92004.js.map",
+    "static/js/2.0888472a.chunk.js": "/lindamckeithlam/PS-Notifier/static/js/2.0888472a.chunk.js",
+    "static/js/2.0888472a.chunk.js.map": "/lindamckeithlam/PS-Notifier/static/js/2.0888472a.chunk.js.map",
+    "index.html": "/lindamckeithlam/PS-Notifier/index.html",
+    "precache-manifest.f67329389a2563850fa39e1e6e482ca5.js": "/lindamckeithlam/PS-Notifier/precache-manifest.f67329389a2563850fa39e1e6e482ca5.js",
+    "service-worker.js": "/lindamckeithlam/PS-Notifier/service-worker.js",
+    "static/css/main.11a4dbbb.chunk.css.map": "/lindamckeithlam/PS-Notifier/static/css/main.11a4dbbb.chunk.css.map",
+    "static/media/logo.svg": "/lindamckeithlam/PS-Notifier/static/media/logo.5d5d9eef.svg"
+  }
+}
