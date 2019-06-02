@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PS-Notifier/static/css/main.49310ef5.chunk.css",
-    "main.js": "/PS-Notifier/static/js/main.d61524bc.chunk.js",
-    "main.js.map": "/PS-Notifier/static/js/main.d61524bc.chunk.js.map",
+    "main.css": "/PS-Notifier/static/css/main.8544023e.chunk.css",
+    "main.js": "/PS-Notifier/static/js/main.5d7ef5ff.chunk.js",
+    "main.js.map": "/PS-Notifier/static/js/main.5d7ef5ff.chunk.js.map",
     "runtime~main.js": "/PS-Notifier/static/js/runtime~main.e1856fcb.js",
     "runtime~main.js.map": "/PS-Notifier/static/js/runtime~main.e1856fcb.js.map",
     "static/js/2.fb54bc10.chunk.js": "/PS-Notifier/static/js/2.fb54bc10.chunk.js",
     "static/js/2.fb54bc10.chunk.js.map": "/PS-Notifier/static/js/2.fb54bc10.chunk.js.map",
     "index.html": "/PS-Notifier/index.html",
-    "precache-manifest.c8f6aefa240d01ae908363155e8fccf1.js": "/PS-Notifier/precache-manifest.c8f6aefa240d01ae908363155e8fccf1.js",
+    "precache-manifest.55067fbb91a337e3f703950d482b9463.js": "/PS-Notifier/precache-manifest.55067fbb91a337e3f703950d482b9463.js",
     "service-worker.js": "/PS-Notifier/service-worker.js",
-    "static/css/main.49310ef5.chunk.css.map": "/PS-Notifier/static/css/main.49310ef5.chunk.css.map"
+    "static/css/main.8544023e.chunk.css.map": "/PS-Notifier/static/css/main.8544023e.chunk.css.map"
   }
 }
