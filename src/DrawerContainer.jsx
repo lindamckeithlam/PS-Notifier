@@ -1,11 +1,7 @@
 import React from "react";
 import { withStyles } from "@material-ui/core/styles";
 import Drawer from "@material-ui/core/Drawer";
-import List from "@material-ui/core/List";
-import ListItem from "@material-ui/core/ListItem";
-import ListItemIcon from "@material-ui/core/ListItemIcon";
-import ListItemText from "@material-ui/core/ListItemText";
-import InboxIcon from "@material-ui/icons/MoveToInbox";
+import Gist from "react-gist";
 
 const styles = theme => ({
   root: {
@@ -23,14 +19,8 @@ class DrawerContainer extends React.Component {
         onClose={this.props.onClose}
       >
         <div className={classes.root}>
-          <List>
-            <ListItem button>
-              <ListItemIcon>
-                <InboxIcon />
-              </ListItemIcon>
-              <ListItemText primary="Notifications" />
-            </ListItem>
-          </List>
+          {/* Gist Link */}
+          <Gist id="11af66c06ead3f46d205bd432aab0358" />
         </div>
       </Drawer>
     );

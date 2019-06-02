@@ -5,7 +5,7 @@ import Toolbar from "@material-ui/core/Toolbar";
 import IconButton from "@material-ui/core/IconButton";
 import Typography from "@material-ui/core/Typography";
 import Badge from "@material-ui/core/Badge";
-import AccountCircle from "@material-ui/icons/AccountCircle";
+import Avatar from "@material-ui/core/Avatar";
 
 import DrawerContainer from "./DrawerContainer";
 
@@ -52,8 +52,11 @@ class NavBar extends React.Component {
                 onClick={() => this.setState({ drawerOpen: true })}
                 color="inherit"
               >
-                <Badge badgeContent={17} color="secondary">
-                  <AccountCircle />
+                <Badge badgeContent={1} color="secondary">
+                  <Avatar
+                    alt="Profile Picture"
+                    src="https://avatars3.githubusercontent.com/u/35122889?s=400&v=4"
+                  />
                 </Badge>
               </IconButton>
             </div>
