@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//PS-Notifier/static/css/main.11a4dbbb.chunk.css",
-    "main.js": "//PS-Notifier/static/js/main.64e5ce1a.chunk.js",
-    "main.js.map": "//PS-Notifier/static/js/main.64e5ce1a.chunk.js.map",
-    "runtime~main.js": "//PS-Notifier/static/js/runtime~main.f07f5626.js",
-    "runtime~main.js.map": "//PS-Notifier/static/js/runtime~main.f07f5626.js.map",
-    "static/js/2.7345b014.chunk.js": "//PS-Notifier/static/js/2.7345b014.chunk.js",
-    "static/js/2.7345b014.chunk.js.map": "//PS-Notifier/static/js/2.7345b014.chunk.js.map",
-    "index.html": "//PS-Notifier/index.html",
-    "precache-manifest.3fb787ccb092a08a62065534c6435873.js": "//PS-Notifier/precache-manifest.3fb787ccb092a08a62065534c6435873.js",
-    "service-worker.js": "//PS-Notifier/service-worker.js",
-    "static/css/main.11a4dbbb.chunk.css.map": "//PS-Notifier/static/css/main.11a4dbbb.chunk.css.map"
+    "main.css": "/PS-Notifier/static/css/main.11a4dbbb.chunk.css",
+    "main.js": "/PS-Notifier/static/js/main.e0fb9cc7.chunk.js",
+    "main.js.map": "/PS-Notifier/static/js/main.e0fb9cc7.chunk.js.map",
+    "runtime~main.js": "/PS-Notifier/static/js/runtime~main.e1856fcb.js",
+    "runtime~main.js.map": "/PS-Notifier/static/js/runtime~main.e1856fcb.js.map",
+    "static/js/2.7345b014.chunk.js": "/PS-Notifier/static/js/2.7345b014.chunk.js",
+    "static/js/2.7345b014.chunk.js.map": "/PS-Notifier/static/js/2.7345b014.chunk.js.map",
+    "index.html": "/PS-Notifier/index.html",
+    "precache-manifest.b60a2b4576db731900aa2015ae0e8904.js": "/PS-Notifier/precache-manifest.b60a2b4576db731900aa2015ae0e8904.js",
+    "service-worker.js": "/PS-Notifier/service-worker.js",
+    "static/css/main.11a4dbbb.chunk.css.map": "/PS-Notifier/static/css/main.11a4dbbb.chunk.css.map"
   }
 }
