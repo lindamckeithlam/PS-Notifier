@@ -9,7 +9,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-image: url("https://www.brewsterwallcovering.com/images/thumbs/0024106_mythic-seafoam-floral-wallpaper_360.jpeg");
+  min-width: 100vw;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
