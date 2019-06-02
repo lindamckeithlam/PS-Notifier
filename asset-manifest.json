@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lindamckeithlam/PS-Notifier/static/css/main.11a4dbbb.chunk.css",
-    "main.js": "/lindamckeithlam/PS-Notifier/static/js/main.0818d972.chunk.js",
-    "main.js.map": "/lindamckeithlam/PS-Notifier/static/js/main.0818d972.chunk.js.map",
-    "runtime~main.js": "/lindamckeithlam/PS-Notifier/static/js/runtime~main.17b92004.js",
-    "runtime~main.js.map": "/lindamckeithlam/PS-Notifier/static/js/runtime~main.17b92004.js.map",
-    "static/js/2.0888472a.chunk.js": "/lindamckeithlam/PS-Notifier/static/js/2.0888472a.chunk.js",
-    "static/js/2.0888472a.chunk.js.map": "/lindamckeithlam/PS-Notifier/static/js/2.0888472a.chunk.js.map",
-    "index.html": "/lindamckeithlam/PS-Notifier/index.html",
-    "precache-manifest.f67329389a2563850fa39e1e6e482ca5.js": "/lindamckeithlam/PS-Notifier/precache-manifest.f67329389a2563850fa39e1e6e482ca5.js",
-    "service-worker.js": "/lindamckeithlam/PS-Notifier/service-worker.js",
-    "static/css/main.11a4dbbb.chunk.css.map": "/lindamckeithlam/PS-Notifier/static/css/main.11a4dbbb.chunk.css.map",
-    "static/media/logo.svg": "/lindamckeithlam/PS-Notifier/static/media/logo.5d5d9eef.svg"
+    "main.css": "//PS-Notifier/static/css/main.11a4dbbb.chunk.css",
+    "main.js": "//PS-Notifier/static/js/main.4a82711a.chunk.js",
+    "main.js.map": "//PS-Notifier/static/js/main.4a82711a.chunk.js.map",
+    "runtime~main.js": "//PS-Notifier/static/js/runtime~main.f07f5626.js",
+    "runtime~main.js.map": "//PS-Notifier/static/js/runtime~main.f07f5626.js.map",
+    "static/js/2.0888472a.chunk.js": "//PS-Notifier/static/js/2.0888472a.chunk.js",
+    "static/js/2.0888472a.chunk.js.map": "//PS-Notifier/static/js/2.0888472a.chunk.js.map",
+    "index.html": "//PS-Notifier/index.html",
+    "precache-manifest.4768a4a32b292ee1229894f7bbcc3e5b.js": "//PS-Notifier/precache-manifest.4768a4a32b292ee1229894f7bbcc3e5b.js",
+    "service-worker.js": "//PS-Notifier/service-worker.js",
+    "static/css/main.11a4dbbb.chunk.css.map": "//PS-Notifier/static/css/main.11a4dbbb.chunk.css.map",
+    "static/media/logo.svg": "//PS-Notifier/static/media/logo.5d5d9eef.svg"
   }
 }
