@@ -24,20 +24,35 @@ class App extends React.Component {
           <header className="App-header">
             <img
               src={
-                "https://images.vectorhq.com/images/previews/634/kung-fu-panda-psd-435887.png"
+                "https://screamless-seed.s3.us-east-2.amazonaws.com/panda.png"
               }
               className="App-logo"
               alt="logo"
             />
 
-            <a
-              className="App-link"
-              href="https://github.com/lindamckeithlam/PS-Notifier"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              See More on Github
-            </a>
+            <div className="personal-links">
+              <a
+                href="https://angel.co/linda-mckeith-lam"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i className="fab fa-angellist" />
+              </a>
+              <a
+                href="https://www.linkedin.com/in/lindamckeithlam"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i className="fab fa-linkedin-in" />
+              </a>
+              <a
+                href="https://github.com/lindamckeithlam/PS-Notifier"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <i className="fab fa-github" />
+              </a>
+            </div>
           </header>
         </div>
       </Provider>
