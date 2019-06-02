@@ -17,5 +17,3 @@
 
 - Add push notifications for desktop and mobile
 - Add input url feature for users to track their own gist changes
-
-![FrontPage](/src/images/panda.png "Panda")
