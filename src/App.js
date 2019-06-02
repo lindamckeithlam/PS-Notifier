@@ -2,7 +2,6 @@ import React from "react";
 import { connect } from "react-redux";
 import { Provider } from "react-redux";
 
-import logo from "./logo.svg";
 import "./App.css";
 import NavBar from "./NavBar";
 import { getChangelogHTML } from "./actions";
