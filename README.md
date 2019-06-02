@@ -9,4 +9,4 @@
 - Queries and notifies user of any gist updates
 - Local Storage used to know when a user has already been notified about a release
 
-![Notifications](/src/images/notifications "GitHub Gists")
+![Notifications](/src/images/notifications.png "GitHub Gists")
