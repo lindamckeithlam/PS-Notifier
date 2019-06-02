@@ -5,7 +5,7 @@ import Gist from "react-gist";
 
 const styles = theme => ({
   root: {
-    width: 500
+    width: "50vw"
   }
 });
 
